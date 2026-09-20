@@ -46,7 +46,7 @@ class NischayRawat:
             "🤖  LLMs & Agentic AI Systems",
             "🔗  RAG Pipelines & Vector Search",
             "⚙️   Async Backends & Task Queues",
-            "☁️   Cloud & AI Systems",
+            "☁️   Vecor & AI Systems",
         ]
 
     @property
