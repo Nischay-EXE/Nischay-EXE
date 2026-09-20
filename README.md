@@ -49,7 +49,7 @@ class NischayRawat:
 </td><td width="40%" align="center">
 
 <!-- GitHub cannot read a ChatGPT upload directly. Replace this with a public GIF URL. -->
-<img src="https://github.com/rudrabarad/Gifs" width="300" alt="Coding animation"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhlcW5nZHN5b2s3a3d3b2Fxd2dpdDFtM2p4ODZ6cHp1cnd4emYyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding animation"/>
 
 </td></tr></table>
 
