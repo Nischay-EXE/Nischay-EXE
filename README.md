@@ -65,7 +65,7 @@ class NischayRawat:
 <td width="38%" align="center" valign="middle">
 
 <!-- Replace with a publicly hosted GIF URL -->
-<img src="YOUR_HOSTED_GIF_URL" width="300" alt="Coding animation"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding animation"/>
 
 </td>
 </tr>
