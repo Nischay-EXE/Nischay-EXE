@@ -117,15 +117,17 @@ class NischayRawat:
 
 <table width="100%" cellpadding="8" cellspacing="0" style="width:100%; table-layout:fixed;">
 <colgroup>
-<col width="20%">
-<col width="55%">
-<col width="25%">
+<col width="18%">
+<col width="32%">
+<col width="22%">
+<col width="28%">
 </colgroup>
 
 <tr>
 <th align="center">🔍 Project</th>
-<th align="center">💡 What it does</th>
-<th align="center">🛠️ Stack</th>
+<th align="left">💡 What it does</th>
+<th align="left">🛠️ Stack</th>
+<th align="left">📈 Impact</th>
 </tr>
 
 <tr>
@@ -137,16 +139,16 @@ class NischayRawat:
 
 </td>
 
-<td>
-
+<td align="left">
 Event-driven AI revenue recovery system using multi-agent workflows
-
 </td>
 
-<td>
-
+<td align="left">
 Python · FastAPI · Strands · Redis · PostgreSQL
+</td>
 
+<td align="left">
+Automates payment recovery through intelligent analysis, planning, and controlled execution
 </td>
 </tr>
 
@@ -159,25 +161,20 @@ Python · FastAPI · Strands · Redis · PostgreSQL
 
 </td>
 
-<td>
-
+<td align="left">
 Machine-learning pipeline for experimental early-stage ovarian cancer classification
-
 </td>
 
-<td>
-
+<td align="left">
 Python · Scikit-learn · Streamlit · Pandas
+</td>
 
+<td align="left">
+Enables comparative model experimentation and interactive predictions using clinical datasets
 </td>
 </tr>
 
 </table>
-
-<br/>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🔬 Research
