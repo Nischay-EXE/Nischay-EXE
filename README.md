@@ -1,9 +1,3 @@
-<div align="center">
-
-<!-- ===================== MAIN CONTAINER ===================== -->
-<table width="100%" style="table-layout:fixed;">
-<tr>
-<td width="100%">
 
 <div align="center">
 
@@ -30,7 +24,7 @@
 
 ## ⚡ Whoami
 
-<table width="100%" style="table-layout:fixed;">
+<table>
 <tr>
 <td width="60%" valign="top">
 
@@ -40,32 +34,31 @@ class NischayRawat:
         self.name = "Nischay Rawat"
         self.role = "AI / ML Engineer"
         self.university = "Bennett University"
-        self.specialization = "Computer Science & AI"
+        self.specialization = "CSE & AI"
         self.location = "India"
 
     @property
     def interests(self):
         return [
-            "Large Language Models",
-            "RAG & Embedding Pipelines",
-            "Multi-Agent AI Systems",
+            "LLMs",
+            "RAG Pipelines",
+            "Multi-Agent Systems",
             "Machine Learning",
-            "Intelligent Automation",
+            "Automation",
         ]
 
     @property
     def currently_building(self):
-        return "Practical AI systems from the ground up."
+        return "Practical AI systems."
 
     def motto(self):
-        return "Learn, build, and keep improving."
+        return "Learn, build, improve."
 ```
 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<!-- Replace with a publicly hosted GIF URL -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Coding animation"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="90%" alt="Coding animation"/>
 
 </td>
 </tr>
@@ -164,7 +157,3 @@ class NischayRawat:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4C93,100:3F51B5&height=110&section=footer&text=Let's%20build%20something%20remarkable.&fontSize=24&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
 
 </div>
-
-</td>
-</tr>
-</table>
