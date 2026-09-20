@@ -57,71 +57,71 @@ class NischayRawat:
 
 ## 🧰 Tech Arsenal
 
-### 🤖 AI / ML
+<h3 align="center">🤖 AI / ML</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy" height="42" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="45"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
 </p>
 
-### 🧠 GenAI & LLMs
+<h3 align="center">🧠 GenAI & LLMs</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-8E44AD?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Agents-7D3C98?style=flat-square" />
-  <img src="https://img.shields.io/badge/Strands%20Agents-5B2C6F?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-5865F2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embeddings-9B59B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" />
-  <img src="https://img.shields.io/badge/FAISS-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-805AD5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI_Agents-6B46C1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Strands_Agents-553C9A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-1C4532?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C4532?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-F6D365?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Embeddings-805AD5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ChromaDB-E76F51?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-4169E1?style=flat-square"/>
 </p>
 
-### ⚙️ Backend & APIs
+<h3 align="center">⚙️ Backend & APIs</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django" height="42" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,github" height="42" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django" height="45"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis%20Streams-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-3568A8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pydantic-D6336C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D9381E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-### 🔌 Frameworks & Integrations
+<h3 align="center">🗄️ Databases & Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay%20APIs-3395FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Razorpay%20Remote%20MCP-3395FF?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,github" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChromaDB-E76F51?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Qdrant-D02B5B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Redis_Streams-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+<h3 align="center">🔌 Frameworks & Integrations</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay_APIs-528FF0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Razorpay_Remote_MCP-528FF0?style=flat-square"/>
 </p>
 ---
 
