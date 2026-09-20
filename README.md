@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=LLM+Systems+%E2%9C%A6+RAG+Pipelines+%E2%9C%A6+Agentic+AI;Multi-Agent+Orchestration+%E2%9C%A6+Async+Backends;FastAPI+%E2%9C%A6+LangGraph+%E2%9C%A6+PyTorch+%E2%9C%A6+AWS;Turning+ideas+into+production-grade+AI." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=LLM+Systems+%E2%9C%A6+RAG+Pipelines+%E2%9C%A6+Agentic+AI;Multi-Agent+Orchestration+%E2%9C%A6+Async+Backends;FastAPI+%E2%9C%A6+LangGraph+%E2%9C%A6+PyTorch+%E2%9C%A6;Turning+ideas+into+production-grade+AI." alt="Typing SVG"/>
 
 <br/><br/>
 
