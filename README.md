@@ -192,21 +192,16 @@ Enables comparative model experimentation and interactive predictions using clin
 
 ## 🎓 Certifications
 
-<div align="center">
+- **Next-Gen Workplace Automation with GenAI Specialization** — Coursera  
+  *Completed May 2026*
 
-<img src="https://img.shields.io/badge/%F0%9F%93%9A%20DATABRICKS%20FUNDAMENTALS-EF4B3A?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20WORKFLOW%20SPECIALIZATION-4B6FE8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20COMPUTER%20NETWORKS%20%26%20SECURITY-65CDAA?style=for-the-badge"/>
+- **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization** — DeepLearning.AI, Coursera
 
-<br/>
+- **Machine Learning: Classification** — University of Washington, Coursera
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8A%20DATA%20ANALYSIS%20WITH%20PANDAS-21166F?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F%20DATABASES%20%26%20SQL-557A9E?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</div>
+- **Databases and SQL for Data Science** — IBM, Credly
 
 ---
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20remarkable.&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer"/>
