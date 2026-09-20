@@ -142,11 +142,11 @@ class NischayRawat:
 
 
 
-<p align="center">
-  <i>Building practical AI systems, one project at a time.</i>
-</p>
+---
 
-<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B4E9B,100:8E4A9B&height=100&section=footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4C93,100:3F51B5&height=110&section=footer&text=Let's%20build%20something%20remarkable.&fontSize=24&fontColor=FFFFFF&fontAlignY=55"
+    width="100%"
+  />
 </p>
