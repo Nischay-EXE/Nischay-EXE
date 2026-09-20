@@ -115,9 +115,7 @@ class NischayRawat:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<table width="100%" cellpadding="6" cellspacing="0">
+<table width="100%" cellpadding="8" cellspacing="0">
 <tr>
 <th width="23%">🔍 Project</th>
 <th width="47%">💡 What it does</th>
@@ -181,8 +179,6 @@ Streamlit · Pandas
 </tr>
 
 </table>
-
-</div>
 
 <br/>
 
