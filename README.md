@@ -125,46 +125,24 @@ class NischayRawat:
 
 ---
 
-## 📊 GitHub Statistics
+
+## 🎓 Certifications
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nischay-EXE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nischay-EXE&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://img.shields.io/badge/📚%20Databricks%20Fundamentals-EF4B3A?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖%20AI%20Workflow%20Specialization-4B6FE8?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐%20Computer%20Networks%20%26%20Security-65CDAA?style=for-the-badge&logo=cisco&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/📊%20Data%20Analysis%20with%20Pandas-21166F?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/🗄️%20Databases%20%26%20SQL-557A9E?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nischay-EXE&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nischay-EXE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Let's build something remarkable." />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nischay-EXE&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-## 📜 Certifications
-
-- **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization** — DeepLearning.AI, Coursera
-- **Machine Learning: Classification** — University of Washington, Coursera
-- **Databases and SQL for Data Science** — IBM, Credly
-
----
-
-<h3 align="center">
-  🚀 Let's build something intelligent together.
-</h3>
 
 <p align="center">
   <i>Building practical AI systems, one project at a time.</i>
