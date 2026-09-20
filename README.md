@@ -140,13 +140,7 @@ class NischayRawat:
 
 ---
 
----
 
-<p align="center">
-  <i>Building practical AI systems, one project at a time.</i>
-</p>
-
----
 
 <p align="center">
   <i>Building practical AI systems, one project at a time.</i>
