@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nischay%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20intelligent%20systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nischay%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20intelligent%20systems&descAlignY=55&descSize=18" width="100%" alt="Nischay Rawat"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=LLM+Systems+%E2%9C%A6+RAG+Pipelines+%E2%9C%A6+Agentic+AI;Multi-Agent+Orchestration+%E2%9C%A6+Async+Backends;FastAPI+%E2%9C%A6+LangGraph+%E2%9C%A6+PyTorch+%E2%9C%A6;Turning+ideas+into+production-grade+AI." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=500&lines=LLM+Systems+%E2%9C%A6+RAG+Pipelines+%E2%9C%A6+Agentic+AI;Multi-Agent+Orchestration+%E2%9C%A6+Async+Backends;FastAPI+%E2%9C%A6+LangGraph+%E2%9C%A6+PyTorch+%E2%9C%A6+AWS;Turning+ideas+into+production-grade+AI." alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -29,11 +29,11 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## ⚡ `whoami`
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="280px"/>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="260px" alt="Coding animation"/>
 
 ```python
 class NischayRawat:
@@ -115,21 +115,68 @@ class NischayRawat:
 
 ---
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 🔍 Project | 💡 What it does | 🛠️ Stack | 📊 Impact |
-|:-----------|:----------------|:----------|:----------|
-| [**Recoup**](https://github.com/Nischay-EXE/Recoup) | Event-driven AI revenue recovery system using multi-agent workflows | `Python` `FastAPI` `Strands` `Redis` `PostgreSQL` | ⚡ Automated multi-agent revenue recovery workflow |
-| [**Early-Stage Ovarian Cancer Detection**](https://github.com/Nischay-EXE/Early-Stage-Detection-of-Ovarian-Cancer) | Machine-learning pipeline for experimental early-stage ovarian cancer classification | `Python` `Scikit-learn` `Streamlit` `Pandas` | 🧬 End-to-end ML classification pipeline |
+<table width="100%">
+<tr>
+<th>🔍 Project</th>
+<th>💡 What it does</th>
+<th>🛠️ Stack</th>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/Nischay-EXE/Recoup">
+<b>Recoup</b>
+</a>
+
+</td>
+<td>
+
+Event-driven AI revenue recovery system using multi-agent workflows.
+
+</td>
+<td>
+
+Python · FastAPI · Strands · Redis · PostgreSQL
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/Nischay-EXE/Early-Stage-Detection-of-Ovarian-Cancer">
+<b>Early-Stage Ovarian Cancer Detection</b>
+</a>
+
+</td>
+<td>
+
+Machine-learning pipeline for experimental early-stage ovarian cancer classification.
+
+</td>
+<td>
+
+Python · Scikit-learn · Streamlit · Pandas
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
 <br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🔬 Research
 
@@ -163,7 +210,7 @@ class NischayRawat:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20remarkable.&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20remarkable.&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer"/>
 
 </div>
 
