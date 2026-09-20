@@ -27,9 +27,10 @@
 
 ## ⚡ Whoami
 
-<p align="right">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="28%" alt="Coding animation"/>
-</p>
+<table width="100%" style="table-layout: fixed;">
+<tr>
+
+<td width="62%" valign="top">
 
 ```python
 class NischayRawat:
@@ -56,14 +57,6 @@ class NischayRawat:
 
     def motto(self):
         return "Learn, build, improve."
-```
-
-<div align="center">
-
-**Building practical AI systems from the ground up.**
-
-</div>
-
 ---
 
 # 🧰 Tech Arsenal
