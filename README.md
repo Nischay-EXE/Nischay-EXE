@@ -188,21 +188,28 @@ Enables comparative model experimentation and interactive predictions using clin
 
 ---
 
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🎓 Certifications
 
-- **Next-Gen Workplace Automation with GenAI Specialization** — Coursera  
-  *Completed May 2026*
-
-- **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization** — DeepLearning.AI, Coursera
-
-- **Machine Learning: Classification** — University of Washington, Coursera
-
-- **Databases and SQL for Data Science** — IBM, Credly
-
----
 <div align="center">
+
+<img src="https://img.shields.io/badge/NEXT--GEN%20WORKPLACE%20AUTOMATION%20WITH%20GENAI%20SPECIALIZATION-4B6FE8?style=for-the-badge&logo=coursera&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/IMPROVING%20DEEP%20NEURAL%20NETWORKS-EF4B3A?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING%3A%20CLASSIFICATION-5B4BCE?style=for-the-badge&logo=coursera&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DATABASES%20AND%20SQL%20FOR%20DATA%20SCIENCE-557A9E?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+---<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20remarkable.&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer"/>
 
