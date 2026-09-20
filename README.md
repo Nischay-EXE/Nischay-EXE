@@ -1,7 +1,3 @@
-<table align="center" width="92%" border="1" cellpadding="8" cellspacing="0">
-<tr>
-<td>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nischay%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20intelligent%20systems&descAlignY=55&descSize=18" width="100%" alt="Nischay Rawat"/>
@@ -29,7 +25,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
 ## ⚡ `whoami`
 
@@ -115,13 +111,13 @@ class NischayRawat:
 
 ---
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🚀 Featured Projects
 
-<table width="100%" cellpadding="6" cellspacing="0" border="1">
+<div align="center">
+
+<table width="100%" cellpadding="6" cellspacing="0">
 <tr>
 <th width="23%">🔍 Project</th>
 <th width="47%">💡 What it does</th>
@@ -186,9 +182,12 @@ Streamlit · Pandas
 
 </table>
 
+</div>
+
 <br/>
 
 ---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🔬 Research
@@ -226,7 +225,3 @@ Streamlit · Pandas
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20remarkable.&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer"/>
 
 </div>
-
-</td>
-</tr>
-</table>
