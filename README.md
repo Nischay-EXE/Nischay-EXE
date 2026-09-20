@@ -1,4 +1,8 @@
 
+<table align="center" width="95%" border="1" cellpadding="12" cellspacing="0">
+<tr>
+<td>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4CA1AF&height=150&section=header&text=Nischay%20Rawat&fontSize=36&fontColor=FFFFFF&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20intelligent%20systems&descAlignY=70&descSize=15" width="100%"/>
@@ -24,7 +28,7 @@
 
 ## ⚡ Whoami
 
-<table>
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
 <tr>
 <td width="60%" valign="top">
 
@@ -157,3 +161,7 @@ class NischayRawat:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4C93,100:3F51B5&height=110&section=footer&text=Let's%20build%20something%20remarkable.&fontSize=24&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
 
 </div>
+
+</td>
+</tr>
+</table>
