@@ -115,7 +115,21 @@ class NischayRawat:
 
 ---
 
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🔍 Project | 💡 What it does | 🛠️ Stack | 📊 Impact |
+|:-----------|:----------------|:----------|:----------|
+| [**Recoup**](https://github.com/Nischay-EXE/Recoup) | Event-driven AI revenue recovery system using multi-agent workflows | `Python` `FastAPI` `Strands` `Redis` `PostgreSQL` | ⚡ Automated multi-agent revenue recovery workflow |
+| [**Early-Stage Ovarian Cancer Detection**](https://github.com/Nischay-EXE/Early-Stage-Detection-of-Ovarian-Cancer) | Machine-learning pipeline for experimental early-stage ovarian cancer classification | `Python` `Scikit-learn` `Streamlit` `Pandas` | 🧬 End-to-end ML classification pipeline |
+
+</div>
+
+<br/>
 
 ## 🔬 Research
 
