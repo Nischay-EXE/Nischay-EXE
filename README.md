@@ -1,11 +1,10 @@
-
-<table align="center" width="95%" border="1" cellpadding="12" cellspacing="0">
+<table align="center" width="90%" border="1" cellpadding="8" cellspacing="0">
 <tr>
 <td>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4CA1AF&height=150&section=header&text=Nischay%20Rawat&fontSize=36&fontColor=FFFFFF&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20intelligent%20systems&descAlignY=70&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4CA1AF&height=150&section=header&text=Nischay%20Rawat&fontSize=36&fontColor=FFFFFF&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20intelligent%20systems&descAlignY=70&descSize=15" width="100%" alt="Header"/>
 
 ### Multi-Agent Orchestration ✦ Async Backends
 
@@ -28,9 +27,10 @@
 
 ## ⚡ Whoami
 
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<table width="100%" border="0" cellpadding="6" cellspacing="0">
 <tr>
-<td width="60%" valign="top">
+
+<td width="62%" valign="top">
 
 ```python
 class NischayRawat:
@@ -60,11 +60,13 @@ class NischayRawat:
 ```
 
 </td>
-<td width="40%" align="center" valign="middle">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="90%" alt="Coding animation"/>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="85%" alt="Coding animation"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -76,7 +78,7 @@ class NischayRawat:
 
 ### 🤖 AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="55"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="50"/>
 
 <br/>
 
@@ -98,7 +100,7 @@ class NischayRawat:
 
 ### ⚙️ Backend, Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis,docker,git,github" height="55"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis,docker,git,github" height="50"/>
 
 <br/>
 
@@ -120,11 +122,72 @@ class NischayRawat:
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|:---:|:---|:---|
-| [Recoup](https://github.com/Nischay-EXE/Recoup) | Event-driven AI revenue recovery system using multi-agent workflows | Python, FastAPI, Strands, Redis, PostgreSQL |
-| [Early-Stage Ovarian Cancer Detection](https://github.com/Nischay-EXE/Early-Stage-Detection-of-Ovarian-Cancer) | Machine-learning pipeline for experimental ovarian cancer classification | Python, Scikit-learn, Streamlit, Pandas |
-| [Nischay-EXE](https://github.com/Nischay-EXE) | Collection of experiments, projects, and machine-learning work | Python, AI/ML |
+<table width="100%" border="1" cellpadding="5" cellspacing="0">
+<tr>
+<th width="22%">Project</th>
+<th width="48%">Description</th>
+<th width="30%">Tech Stack</th>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/Nischay-EXE/Recoup">Recoup</a>
+
+</td>
+<td>
+
+Event-driven AI revenue recovery system using multi-agent workflows
+
+</td>
+<td>
+
+Python, FastAPI, Strands, Redis, PostgreSQL
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/Nischay-EXE/Early-Stage-Detection-of-Ovarian-Cancer">
+Early-Stage Ovarian Cancer Detection
+</a>
+
+</td>
+<td>
+
+Machine-learning pipeline for experimental ovarian cancer classification
+
+</td>
+<td>
+
+Python, Scikit-learn, Streamlit, Pandas
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/Nischay-EXE">
+Nischay-EXE
+</a>
+
+</td>
+<td>
+
+Collection of experiments, projects, and machine-learning work
+
+</td>
+<td>
+
+Python, AI/ML
+
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -158,7 +221,7 @@ class NischayRawat:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4C93,100:3F51B5&height=110&section=footer&text=Let's%20build%20something%20remarkable.&fontSize=24&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4C93,100:3F51B5&height=110&section=footer&text=Let's%20build%20something%20remarkable.&fontSize=24&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Footer"/>
 
 </div>
 
