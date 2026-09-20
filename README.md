@@ -140,9 +140,13 @@ class NischayRawat:
 
 ---
 
+---
+
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Let's build something remarkable." />
+  <i>Building practical AI systems, one project at a time.</i>
 </p>
+
+---
 
 <p align="center">
   <i>Building practical AI systems, one project at a time.</i>
