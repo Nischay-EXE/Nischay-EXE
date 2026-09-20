@@ -115,17 +115,17 @@ class NischayRawat:
 
 ---
 
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<table width="100%">
+<table width="100%" cellpadding="6" cellspacing="0" border="1">
 <tr>
-<th>🔍 Project</th>
-<th>💡 What it does</th>
-<th>🛠️ Stack</th>
+<th width="23%">🔍 Project</th>
+<th width="47%">💡 What it does</th>
+<th width="30%">🛠️ Stack</th>
 </tr>
 
 <tr>
@@ -136,14 +136,22 @@ class NischayRawat:
 </a>
 
 </td>
+
 <td>
 
-Event-driven AI revenue recovery system using multi-agent workflows.
+Event-driven AI revenue recovery system
+<br/>
+using multi-agent workflows
 
 </td>
+
 <td>
 
-Python · FastAPI · Strands · Redis · PostgreSQL
+Python · FastAPI
+<br/>
+Strands · Redis
+<br/>
+PostgreSQL
 
 </td>
 </tr>
@@ -152,30 +160,35 @@ Python · FastAPI · Strands · Redis · PostgreSQL
 <td align="center">
 
 <a href="https://github.com/Nischay-EXE/Early-Stage-Detection-of-Ovarian-Cancer">
-<b>Early-Stage Ovarian Cancer Detection</b>
+<b>Early-Stage Ovarian<br/>Cancer Detection</b>
 </a>
 
 </td>
+
 <td>
 
-Machine-learning pipeline for experimental early-stage ovarian cancer classification.
+Machine-learning pipeline
+<br/>
+for experimental early-stage
+<br/>
+ovarian cancer classification
 
 </td>
+
 <td>
 
-Python · Scikit-learn · Streamlit · Pandas
+Python · Scikit-learn
+<br/>
+Streamlit · Pandas
 
 </td>
 </tr>
 
 </table>
 
-</div>
-
 <br/>
 
 ---
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🔬 Research
