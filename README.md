@@ -85,10 +85,10 @@ class NischayRawat:
   <img src="https://img.shields.io/badge/ChromaDB-E76F51?style=flat-square"/>
   <img src="https://img.shields.io/badge/FAISS-4169E1?style=flat-square"/>
 </p>
-<h3 align="center">⚙️ Backend & APIs</h3>
+<h3 align="center">⚙️ Backend, Databases & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django" height="45"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis,docker,git,github" height="42"/>
 </p>
 
 <p align="center">
@@ -96,14 +96,12 @@ class NischayRawat:
   <img src="https://img.shields.io/badge/Pydantic-D6336C?style=flat-square"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D9381E?style=flat-square"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-E76F51?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Qdrant-D02B5B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Redis_Streams-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
-
-<h3 align="center">🗄️ Databases & Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,github" height="45"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/ChromaDB-E76F51?style=flat-square"/>
   <img src="https://img.shields.io/badge/Qdrant-D02B5B?style=flat-square"/>
