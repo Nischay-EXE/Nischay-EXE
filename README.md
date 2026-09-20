@@ -1,10 +1,10 @@
-<table align="center" width="90%" border="1" cellpadding="8" cellspacing="0">
+<table align="center" width="100%" border="1" cellpadding="12" cellspacing="0">
 <tr>
 <td>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4CA1AF&height=150&section=header&text=Nischay%20Rawat&fontSize=36&fontColor=FFFFFF&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20intelligent%20systems&descAlignY=70&descSize=15" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4CA1AF&height=150&section=header&text=Nischay%20Rawat&fontSize=36&fontColor=FFFFFF&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20intelligent%20systems&descAlignY=70&descSize=15" width="100%" alt="Nischay Rawat"/>
 
 ### Multi-Agent Orchestration ✦ Async Backends
 
@@ -27,10 +27,9 @@
 
 ## ⚡ Whoami
 
-<table width="100%" border="0" cellpadding="6" cellspacing="0">
-<tr>
-
-<td width="62%" valign="top">
+<p align="right">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="28%" alt="Coding animation"/>
+</p>
 
 ```python
 class NischayRawat:
@@ -59,16 +58,11 @@ class NischayRawat:
         return "Learn, build, improve."
 ```
 
-</td>
+<div align="center">
 
-<td width="38%" align="center" valign="middle">
+**Building practical AI systems from the ground up.**
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="85%" alt="Coding animation"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -122,72 +116,33 @@ class NischayRawat:
 
 ## 🚀 Featured Projects
 
-<table width="100%" border="1" cellpadding="5" cellspacing="0">
-<tr>
-<th width="22%">Project</th>
-<th width="48%">Description</th>
-<th width="30%">Tech Stack</th>
-</tr>
+### 🔹 Recoup
 
-<tr>
-<td align="center">
+**Event-driven AI revenue recovery system using multi-agent workflows**
 
-<a href="https://github.com/Nischay-EXE/Recoup">Recoup</a>
+`Python` `FastAPI` `Strands` `Redis` `PostgreSQL`
 
-</td>
-<td>
+[View Repository →](https://github.com/Nischay-EXE/Recoup)
 
-Event-driven AI revenue recovery system using multi-agent workflows
+---
 
-</td>
-<td>
+### 🔹 Early-Stage Ovarian Cancer Detection
 
-Python, FastAPI, Strands, Redis, PostgreSQL
+**Machine-learning pipeline for experimental ovarian cancer classification**
 
-</td>
-</tr>
+`Python` `Scikit-learn` `Streamlit` `Pandas`
 
-<tr>
-<td align="center">
+[View Repository →](https://github.com/Nischay-EXE/Early-Stage-Detection-of-Ovarian-Cancer)
 
-<a href="https://github.com/Nischay-EXE/Early-Stage-Detection-of-Ovarian-Cancer">
-Early-Stage Ovarian Cancer Detection
-</a>
+---
 
-</td>
-<td>
+### 🔹 Nischay-EXE
 
-Machine-learning pipeline for experimental ovarian cancer classification
+**Collection of experiments, projects, and machine-learning work**
 
-</td>
-<td>
+`Python` `AI/ML`
 
-Python, Scikit-learn, Streamlit, Pandas
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<a href="https://github.com/Nischay-EXE">
-Nischay-EXE
-</a>
-
-</td>
-<td>
-
-Collection of experiments, projects, and machine-learning work
-
-</td>
-<td>
-
-Python, AI/ML
-
-</td>
-</tr>
-
-</table>
+[View GitHub →](https://github.com/Nischay-EXE)
 
 ---
 
