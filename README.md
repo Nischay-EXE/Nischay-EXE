@@ -60,7 +60,7 @@ class NischayRawat:
 <h3 align="center">🤖 AI / ML</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="42"/>
 </p>
 
 <p align="center">
@@ -70,8 +70,6 @@ class NischayRawat:
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
 </p>
-
-<h3 align="center">🧠 GenAI & LLMs</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-6C63FF?style=flat-square"/>
@@ -87,7 +85,6 @@ class NischayRawat:
   <img src="https://img.shields.io/badge/ChromaDB-E76F51?style=flat-square"/>
   <img src="https://img.shields.io/badge/FAISS-4169E1?style=flat-square"/>
 </p>
-
 <h3 align="center">⚙️ Backend & APIs</h3>
 
 <p align="center">
