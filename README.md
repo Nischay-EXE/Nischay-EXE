@@ -64,9 +64,6 @@ class NischayRawat:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
 </p>
@@ -80,11 +77,10 @@ class NischayRawat:
   <img src="https://img.shields.io/badge/LangGraph-1C4532?style=flat-square"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Transformers-F6D365?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat-square"/>
   <img src="https://img.shields.io/badge/Embeddings-805AD5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ChromaDB-E76F51?style=flat-square"/>
   <img src="https://img.shields.io/badge/FAISS-4169E1?style=flat-square"/>
 </p>
+
 <h3 align="center">⚙️ Backend, Databases & Tools</h3>
 
 <p align="center">
@@ -92,22 +88,10 @@ class NischayRawat:
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Async_Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-3568A8?style=flat-square"/>
   <img src="https://img.shields.io/badge/Pydantic-D6336C?style=flat-square"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D9381E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-E76F51?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Qdrant-D02B5B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Redis_Streams-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ChromaDB-E76F51?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Qdrant-D02B5B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Redis_Streams-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 <h3 align="center">🔌 Frameworks & Integrations</h3>
