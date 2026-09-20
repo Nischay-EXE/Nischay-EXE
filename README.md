@@ -6,6 +6,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4CA1AF&height=150&section=header&text=Nischay%20Rawat&fontSize=36&fontColor=FFFFFF&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20intelligent%20systems&descAlignY=70&descSize=15" width="100%" alt="Nischay Rawat"/>
 
+<br/>
+
 ### Multi-Agent Orchestration ✦ Async Backends
 
 <a href="YOUR_PORTFOLIO_URL">
@@ -25,9 +27,9 @@
 
 ---
 
-## ⚡ Whoami
+## ⚡ `whoami`
 
-<table width="100%" style="table-layout: fixed;">
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
 <tr>
 
 <td width="62%" valign="top">
@@ -46,20 +48,39 @@ class NischayRawat:
         return [
             "LLMs",
             "RAG Pipelines",
-            "Multi-Agent Systems",
+            "Multi-Agent AI Systems",
             "Machine Learning",
-            "Automation",
+            "Intelligent Automation",
         ]
 
     @property
     def currently_building(self):
-        return "Practical AI systems."
+        return "Practical AI systems from the ground up."
 
     def motto(self):
-        return "Learn, build, improve."
+        return "Learn, build, and keep improving."
+```
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="90%" alt="Coding animation"/>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+**Building practical AI systems from the ground up.**
+
+</div>
+
 ---
 
-# 🧰 Tech Arsenal
+## 🧰 Tech Arsenal
 
 <div align="center">
 
@@ -104,38 +125,6 @@ class NischayRawat:
 <img src="https://img.shields.io/badge/Razorpay%20Remote%20MCP-6495ED?style=flat-square"/>
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Recoup
-
-**Event-driven AI revenue recovery system using multi-agent workflows**
-
-`Python` `FastAPI` `Strands` `Redis` `PostgreSQL`
-
-[View Repository →](https://github.com/Nischay-EXE/Recoup)
-
----
-
-### 🔹 Early-Stage Ovarian Cancer Detection
-
-**Machine-learning pipeline for experimental ovarian cancer classification**
-
-`Python` `Scikit-learn` `Streamlit` `Pandas`
-
-[View Repository →](https://github.com/Nischay-EXE/Early-Stage-Detection-of-Ovarian-Cancer)
-
----
-
-### 🔹 Nischay-EXE
-
-**Collection of experiments, projects, and machine-learning work**
-
-`Python` `AI/ML`
-
-[View GitHub →](https://github.com/Nischay-EXE)
 
 ---
 
