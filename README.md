@@ -1,14 +1,16 @@
-<table align="center" width="100%" border="1" cellpadding="12" cellspacing="0">
+<table align="center" width="92%" border="1" cellpadding="8" cellspacing="0">
 <tr>
 <td>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4CA1AF&height=150&section=header&text=Nischay%20Rawat&fontSize=36&fontColor=FFFFFF&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20intelligent%20systems&descAlignY=70&descSize=15" width="100%" alt="Nischay Rawat"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nischay%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20intelligent%20systems&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-### Multi-Agent Orchestration ✦ Async Backends
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=LLM+Systems+%E2%9C%A6+RAG+Pipelines+%E2%9C%A6+Agentic+AI;Multi-Agent+Orchestration+%E2%9C%A6+Async+Backends;FastAPI+%E2%9C%A6+LangGraph+%E2%9C%A6+PyTorch+%E2%9C%A6+AWS;Turning+ideas+into+production-grade+AI." alt="Typing SVG"/>
+
+<br/><br/>
 
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/PORTFOLIO-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -27,58 +29,43 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+
 ## ⚡ `whoami`
 
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
-<tr>
-
-<td width="62%" valign="top">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="280px"/>
 
 ```python
 class NischayRawat:
     def __init__(self):
-        self.name = "Nischay Rawat"
-        self.role = "AI / ML Engineer"
+        self.name       = "Nischay Rawat"
+        self.role       = "AI / ML Engineer"
         self.university = "Bennett University"
         self.specialization = "CSE & AI"
-        self.location = "India"
+        self.location   = "India 🇮🇳"
 
     @property
-    def interests(self):
+    def focus(self):
         return [
-            "LLMs",
-            "RAG Pipelines",
-            "Multi-Agent AI Systems",
-            "Machine Learning",
-            "Intelligent Automation",
+            "🤖  LLMs & Agentic AI Systems",
+            "🔗  RAG Pipelines & Vector Search",
+            "⚙️   Async Backends & Task Queues",
+            "☁️   Cloud & AI Systems",
         ]
 
     @property
-    def currently_building(self):
-        return "Practical AI systems from the ground up."
+    def currently(self):
+        return "Building practical AI systems."
 
     def motto(self):
         return "Learn, build, and keep improving."
 ```
 
-</td>
-
-<td width="38%" align="center" valign="middle">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl2Z2tkYjBjank4c3A2MHFpdzlhcmdoMDhqNXg0N3U2c3hib2xraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="90%" alt="Coding animation"/>
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-**Building practical AI systems from the ground up.**
-
-</div>
+<br clear="right"/>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🧰 Tech Arsenal
 
@@ -86,7 +73,7 @@ class NischayRawat:
 
 ### 🤖 AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
 
 <br/>
 
@@ -108,7 +95,7 @@ class NischayRawat:
 
 ### ⚙️ Backend, Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis,docker,git,github" height="50"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis,docker,git,github&theme=dark"/>
 
 <br/>
 
@@ -128,6 +115,8 @@ class NischayRawat:
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
 ## 🔬 Research
 
 ### A Hybrid Intrusion Detection Framework for IoT
@@ -138,6 +127,8 @@ class NischayRawat:
 - Applied SHAP explainability, confusion matrices, learning curves, and classification metrics for analysis.
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🎓 Certifications
 
@@ -158,7 +149,7 @@ class NischayRawat:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4C93,100:3F51B5&height=110&section=footer&text=Let's%20build%20something%20remarkable.&fontSize=24&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20remarkable.&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
 
