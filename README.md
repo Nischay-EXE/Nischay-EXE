@@ -115,11 +115,17 @@ class NischayRawat:
 
 ## 🚀 Featured Projects
 
-<table width="100%" cellpadding="8" cellspacing="0">
+<table width="100%" cellpadding="8" cellspacing="0" style="width:100%; table-layout:fixed;">
+<colgroup>
+<col width="20%">
+<col width="55%">
+<col width="25%">
+</colgroup>
+
 <tr>
-<th width="23%">🔍 Project</th>
-<th width="47%">💡 What it does</th>
-<th width="30%">🛠️ Stack</th>
+<th align="center">🔍 Project</th>
+<th align="center">💡 What it does</th>
+<th align="center">🛠️ Stack</th>
 </tr>
 
 <tr>
@@ -133,19 +139,13 @@ class NischayRawat:
 
 <td>
 
-Event-driven AI revenue recovery system
-<br/>
-using multi-agent workflows
+Event-driven AI revenue recovery system using multi-agent workflows
 
 </td>
 
 <td>
 
-Python · FastAPI
-<br/>
-Strands · Redis
-<br/>
-PostgreSQL
+Python · FastAPI · Strands · Redis · PostgreSQL
 
 </td>
 </tr>
@@ -154,26 +154,20 @@ PostgreSQL
 <td align="center">
 
 <a href="https://github.com/Nischay-EXE/Early-Stage-Detection-of-Ovarian-Cancer">
-<b>Early-Stage Ovarian<br/>Cancer Detection</b>
+<b>Early-Stage Ovarian Cancer Detection</b>
 </a>
 
 </td>
 
 <td>
 
-Machine-learning pipeline
-<br/>
-for experimental early-stage
-<br/>
-ovarian cancer classification
+Machine-learning pipeline for experimental early-stage ovarian cancer classification
 
 </td>
 
 <td>
 
-Python · Scikit-learn
-<br/>
-Streamlit · Pandas
+Python · Scikit-learn · Streamlit · Pandas
 
 </td>
 </tr>
