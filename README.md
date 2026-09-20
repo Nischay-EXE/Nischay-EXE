@@ -46,7 +46,7 @@ class NischayRawat:
             "🤖  LLMs & Agentic AI Systems",
             "🔗  RAG Pipelines & Vector Search",
             "⚙️   Async Backends & Task Queues",
-            "☁️   Vecor & AI Systems",
+            "☁️   Vector & AI Systems",
         ]
 
     @property
@@ -175,6 +175,9 @@ Enables comparative model experimentation and interactive predictions using clin
 </tr>
 
 </table>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🔬 Research
@@ -185,8 +188,6 @@ Enables comparative model experimentation and interactive predictions using clin
 - Combined deep neural-network feature embeddings with an **Extra Trees classifier**.
 - Reported **98.79% accuracy** with the proposed hybrid model.
 - Applied SHAP explainability, confusion matrices, learning curves, and classification metrics for analysis.
-
----
 
 ---
 
@@ -209,7 +210,9 @@ Enables comparative model experimentation and interactive predictions using clin
 
 </div>
 
----<div align="center">
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20remarkable.&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer"/>
 
